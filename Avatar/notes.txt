@@ -1,0 +1,8 @@
+1. Create a container div class that hold complete project.
+2. Create a header class that contain a logo and navbar.
+3. start css, and the first work is set of the fonts via Google fonts.
+4. Remove the padding and margin by set the value 0.
+5. Set the background of the body.
+6. Apply flex-box in body.
+7. working in container class.
+8. Add a content class that contain h2, p and button.

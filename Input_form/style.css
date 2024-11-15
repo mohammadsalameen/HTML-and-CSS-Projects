@@ -1,0 +1,47 @@
+body{
+    background-color: #003;
+    display: flex;
+    justify-content: center; /* conrtols in y,x-axis */
+    align-items: center; /* controls in y-axis only */
+    height: 100vh; /* vh represents a veiw port height */
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+label{
+    color: white;
+    text-decoration: none;
+}
+form{
+    background-color: #0000889f;
+    padding: 10px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    
+}
+form input{
+    background-color: #0000aaa0;
+    border: none;
+    outline: none; /*remove the border when click on */
+    color: white;
+    padding: 5px 10px;
+    flex-basis: 200px; /* as the same of the width effict */
+    flex-grow: 1; /* that exploit the empty spaces */
+    
+}
+form button{
+    background-color: #14a;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 5px 10px;
+    flex-basis: 100px;
+    flex-grow: 1;
+}

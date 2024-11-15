@@ -1,0 +1,9 @@
+1. The first step is create a container class that hold a complete project.
+2. create a nav class that contain a logo (by a tag) and navbar (by ul,li,a tags).(html)
+3. remove a padding and margin, set the font-family for every elements in the page by * tag.(CSS)
+4. set the background, height and width for the page.
+5. عمل المربع الزجاجي من خلال ال container.
+6. to set the container in center, use flex-box in the parent(body).
+7. Draw circle by clip-path .
+8. create a div class (content) that hold a text and image
+9. Make it a responsive design via media .
